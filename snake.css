@@ -1,0 +1,42 @@
+body {
+  background-color: #E6E6FA;
+}
+
+h1, h3, h4 {
+  color: #8A2BE2;
+  text-align: center;
+}
+
+.field {
+  margin: 0 auto;
+  border: 6px solid white;
+  width: 400px;
+  height: 400px;
+}
+
+.cell {
+  display: inline-block;
+  border-width: 1px;
+  border-color: none;
+  width: 18px;
+  height: 18px;
+}
+
+.snake-cell {
+  display: inline-block;
+  background: #FA8072;
+  width: 20px;
+  height: 20px;
+}
+
+.row {
+  height: 20px;
+}
+
+img {
+  float: left;
+  width: 250px;
+  height: 300px;
+  margin-left: 100px;
+  margin-top: 150px;
+}

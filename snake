@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Snake</title>
+    <meta charset="utf-8">
+	 <link href="snake.css" rel="stylesheet">
+  </head>
+
+  <body>
+	<h1>Snake Game</h1>
+  <img src="snake.jpg">
+	<h3>Points: <div></div></h3>
+	<div></div>
+
+	<h4>Use arrows to manage the snake motion.</h4>
+  <script src="snake.js"></script>
+  </body>
+
+</html>
